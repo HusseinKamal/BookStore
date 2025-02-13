@@ -1,4 +1,4 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
+Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 # This is book store demo app in Kotlin Compose Multiplatform (CMP)
 1. Supporting platforms Android , IOS  and Desktop
